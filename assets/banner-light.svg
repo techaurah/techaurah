@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4FAFF"/>
+      <stop offset="0.55" stop-color="#E8F4FF"/>
+      <stop offset="1" stop-color="#D9EFFF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00CEFF"/>
+      <stop offset="1" stop-color="#00C9A7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="150" fill="#00CEFF" opacity="0.12"/>
+  <circle cx="90" cy="300" r="120" fill="#00CEFF" opacity="0.10"/>
+  <rect x="0" y="306" width="1200" height="14" fill="url(#accent)"/>
+  <text x="600" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="bold" letter-spacing="6" fill="#0B1F3A">TECH<tspan fill="#0099CC">AURAH</tspan></text>
+  <text x="600" y="182" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="4" fill="#155E86">AI &amp; SOFTWARE ENGINEERING</text>
+  <text x="600" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#23405E">Building intelligent systems that move businesses forward.</text>
+  <text x="600" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5" fill="#0099CC">SOFTWARE · INTELLIGENCE · AUTOMATION</text>
+</svg>
