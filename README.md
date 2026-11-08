@@ -22,6 +22,14 @@
 > [!TIP]
 > **New here?** If your business runs on inquiries and follow-up, start with the free lead automation audit at [techaurah.com/tools](https://techaurah.com/tools). You keep the audit either way.
 
+## Start here
+
+Pick what you came for. Everything below is free and MIT licensed.
+
+- **Learn to build agents:** 11 free courses, 359 lessons. Start with [Agentic AI for Beginners](https://github.com/techaurah/agentic-ai-for-beginners), the depth anchor, or [Claude Code for Income](https://github.com/techaurah/claude-code-for-income), the newest course. See all 11 under [our repositories](https://github.com/techaurah?tab=repositories).
+- **Use a tool:** [LeadPipe MCP](https://github.com/techaurah/leadpipe-mcp) gives a business without a CRM a scored, bookable lead pipeline an AI assistant can run. Also open: [QualBench](https://github.com/techaurah/qualbench), a benchmark for agent behaviour, and [WorkLang](https://github.com/techaurah/worklang), a small foundation model for agent event logs, v0.1.0.
+- **See the showcase:** [AI Lead Automation](https://github.com/techaurah/ai-lead-automation) is the open blueprint for automating lead handling end to end: capture, instant reply, qualification, CRM write, follow-up, and booking.
+
 ## At a glance
 
 | | |
@@ -153,7 +161,7 @@ flowchart LR
 
 ## Open-source portfolio
 
-Five focused tools, each solving one problem completely, and one free course, all MIT licensed and open to contributions:
+Six focused tools, each solving one problem completely, and 11 free courses (359 lessons), all MIT licensed and open to contributions:
 
 | Project | The problem it solves |
 |---|---|
@@ -161,6 +169,7 @@ Five focused tools, each solving one problem completely, and one free course, al
 | **[LeadPipe MCP](https://github.com/techaurah/leadpipe-mcp)** | Businesses with no CRM get a scored, bookable lead pipeline an AI assistant can safely operate, on Google Sheets and Calendar |
 | **[n8n-audit](https://github.com/techaurah/n8n-audit)** | Production n8n workflows carry known failure classes (secrets, open webhooks, no error handling) that nobody checks automatically |
 | **[QualBench](https://github.com/techaurah/qualbench)** | Agent changes ship untested against business outcomes: wrong stage, invalid booking, invented discount |
+| **[WorkLang](https://github.com/techaurah/worklang)** | Agent event logs carry no shared language, so a small foundation model tokenises executions and samples outcome futures |
 | **[ChaseKit](https://github.com/techaurah/chasekit)** | Earned money sits uncollected because invoice chasing is manual, and the tools are suites or closed SaaS |
 | **[SlotFill](https://github.com/techaurah/slotfill)** | Cancelled and no-show slots sit empty while waitlisted clients are never asked |
 
