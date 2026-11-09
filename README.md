@@ -27,7 +27,7 @@
 Pick what you came for. Everything below is free and MIT licensed.
 
 - **Learn to build agents:** 11 free courses, 359 lessons. Start with [Agentic AI for Beginners](https://github.com/techaurah/agentic-ai-for-beginners), the depth anchor, or [Claude Code for Income](https://github.com/techaurah/claude-code-for-income), the newest course. See all 11 under [our repositories](https://github.com/techaurah?tab=repositories).
-- **Use a tool:** [LeadPipe MCP](https://github.com/techaurah/leadpipe-mcp) gives a business without a CRM a scored, bookable lead pipeline an AI assistant can run. Also open: [QualBench](https://github.com/techaurah/qualbench), a benchmark for agent behaviour, [WorkLang](https://github.com/techaurah/worklang), a small foundation model for agent event logs, v0.1.0, and [First60](https://github.com/techaurah/first60), an AI receptionist for service businesses, with build step 1 of 7 published so far.
+- **Use a tool:** [LeadPipe MCP](https://github.com/techaurah/leadpipe-mcp) gives a business without a CRM a scored, bookable lead pipeline an AI assistant can run. Also open: [QualBench](https://github.com/techaurah/qualbench), a benchmark for agent behaviour, [WorkLang](https://github.com/techaurah/worklang), a small foundation model for agent event logs, v0.1.0, and [First60](https://github.com/techaurah/first60), an AI receptionist for service businesses, with build step 2 of 7 published so far.
 - **See the showcase:** [AI Lead Automation](https://github.com/techaurah/ai-lead-automation) is the open blueprint for automating lead handling end to end: capture, instant reply, qualification, CRM write, follow-up, and booking.
 
 ## At a glance
