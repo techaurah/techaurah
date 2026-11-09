@@ -179,6 +179,9 @@ Seven focused tools, each solving one problem completely, and 11 free courses (3
 TechAurah Academy is where we teach the work in the open. Start with [Agentic AI for Beginners](https://github.com/techaurah/agentic-ai-for-beginners), our free course of 36 lessons plus a capstone project: the free way to learn how we design, build, test, and ship agents, in the same order we use with clients.
 
 
+Paid skills by TechAura (LeadPipe, n8n Audit, ChaseKit, SlotFill playbooks): https://www.agensi.io/creators/techaurah
+
+
 ## Tech we work with
 
 <p align="center">
