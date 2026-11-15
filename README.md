@@ -294,3 +294,7 @@ Never client data or private systems. We publish patterns, blueprints, and tools
   <a href="https://www.linkedin.com/company/techaurah/"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00CEFF" alt="TechAurah on LinkedIn"/></a>
 </p>
 <p align="center"><em>TechAurah: Software · Intelligence · Automation. Building intelligent systems that move businesses forward.</em></p>
+
+## Support TechAura
+
+Our open-source tools and free courses are built and maintained in the open. If they help your work, you can support their development on [Open Collective](https://opencollective.com/techaurah). GitHub Sponsors is in review and will be added here once approved.
